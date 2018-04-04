@@ -1,0 +1,8 @@
+/Users/chen/MyWork/Dotnet/testSln/TestService/bin/Debug/netstandard2.0/TestService.deps.json
+/Users/chen/MyWork/Dotnet/testSln/TestService/bin/Debug/netstandard2.0/TestService.dll
+/Users/chen/MyWork/Dotnet/testSln/TestService/bin/Debug/netstandard2.0/TestService.pdb
+/Users/chen/MyWork/Dotnet/testSln/TestService/obj/Debug/netstandard2.0/TestService.csproj.CoreCompileInputs.cache
+/Users/chen/MyWork/Dotnet/testSln/TestService/obj/Debug/netstandard2.0/TestService.AssemblyInfoInputs.cache
+/Users/chen/MyWork/Dotnet/testSln/TestService/obj/Debug/netstandard2.0/TestService.AssemblyInfo.cs
+/Users/chen/MyWork/Dotnet/testSln/TestService/obj/Debug/netstandard2.0/TestService.dll
+/Users/chen/MyWork/Dotnet/testSln/TestService/obj/Debug/netstandard2.0/TestService.pdb

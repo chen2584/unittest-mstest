@@ -1,0 +1,15 @@
+/Users/chen/MyWork/Dotnet/testSln/TestService.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/chen/MyWork/Dotnet/testSln/TestService.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/chen/MyWork/Dotnet/testSln/TestService.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/chen/MyWork/Dotnet/testSln/TestService.Tests/bin/Debug/netcoreapp2.0/TestService.Tests.deps.json
+/Users/chen/MyWork/Dotnet/testSln/TestService.Tests/bin/Debug/netcoreapp2.0/TestService.Tests.runtimeconfig.json
+/Users/chen/MyWork/Dotnet/testSln/TestService.Tests/bin/Debug/netcoreapp2.0/TestService.Tests.runtimeconfig.dev.json
+/Users/chen/MyWork/Dotnet/testSln/TestService.Tests/bin/Debug/netcoreapp2.0/TestService.Tests.dll
+/Users/chen/MyWork/Dotnet/testSln/TestService.Tests/bin/Debug/netcoreapp2.0/TestService.Tests.pdb
+/Users/chen/MyWork/Dotnet/testSln/TestService.Tests/bin/Debug/netcoreapp2.0/TestService.dll
+/Users/chen/MyWork/Dotnet/testSln/TestService.Tests/bin/Debug/netcoreapp2.0/TestService.pdb
+/Users/chen/MyWork/Dotnet/testSln/TestService.Tests/obj/Debug/netcoreapp2.0/TestService.Tests.csproj.CoreCompileInputs.cache
+/Users/chen/MyWork/Dotnet/testSln/TestService.Tests/obj/Debug/netcoreapp2.0/TestService.Tests.AssemblyInfoInputs.cache
+/Users/chen/MyWork/Dotnet/testSln/TestService.Tests/obj/Debug/netcoreapp2.0/TestService.Tests.AssemblyInfo.cs
+/Users/chen/MyWork/Dotnet/testSln/TestService.Tests/obj/Debug/netcoreapp2.0/TestService.Tests.dll
+/Users/chen/MyWork/Dotnet/testSln/TestService.Tests/obj/Debug/netcoreapp2.0/TestService.Tests.pdb
